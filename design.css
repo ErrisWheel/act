@@ -10,9 +10,9 @@ body {
     text-align: center;
     font-family: 'Playfair Display', serif;
     color: white;
-    background: linear-gradient(45deg, #ed0202, #022aed);
+    background: linear-gradient(45deg, #5b3b00, #3a004d);
     background-size: 200% 200%;
-    animation: gradientMove 6s infinite alternate;
+    animation: gradientMove 3s infinite alternate;
 }
 
 @keyframes gradientMove {
